@@ -1,3 +1,5 @@
+## This program will check all VM instances running the Orace clood provider, in all regions.
+
 ### Run
 go run main.go
 
